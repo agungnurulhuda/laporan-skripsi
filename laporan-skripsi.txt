@@ -3,6 +3,6 @@ Skripsi
 -membuat judul
  *membuat aplikasi game
 -daftar isi
- *tambahan1
+ *tambahan2
 
 
