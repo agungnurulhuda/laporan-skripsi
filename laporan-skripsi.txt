@@ -2,5 +2,6 @@ Skripsi
 -membuat cover
 -membuat judul
  *membuat aplikasi game
+-daftar isi
 
 
