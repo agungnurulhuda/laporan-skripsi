@@ -1,4 +1,4 @@
 Skripsi
 -membuat cover
 -membuat judul
--membuat daftar isi
+
